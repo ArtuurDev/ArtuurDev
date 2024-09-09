@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://img.shields.io/github/followers/artuurdev?label=Followers&style=social" alt="artuurdev" /></a> </p>
 
-- 💬 Pergunte-me sobre **JavaScript, Node.js, Express, NestJs e desenvolvimento web**
+- 💬 Pergunte-me sobre **JavaScript, Python, Node.js, Express, NestJs e desenvolvimento web**
 
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/artur-santos-6035862a0) | **arturcastrodossantos.com@gmail.com**
 
