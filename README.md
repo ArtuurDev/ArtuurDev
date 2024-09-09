@@ -11,7 +11,7 @@
 
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/artur-santos-6035862a0) | **arturcastrodossantos.com@gmail.com**
 
-- 📘 Atualmente cursando **Análise e Desenvolvimento de Sistemas**
+- 📘 Atualmente graduando em **Análise e Desenvolvimento de Sistemas**
 
 - 📚 Me especializando em **Node.js, NestJs e Express**
 
