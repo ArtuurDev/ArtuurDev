@@ -61,10 +61,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=artuurdev&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artuurdev&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
-<h1 align="center">Olá, eu sou Artur Santos 👋</h1>
-<h3 align="center">Desenvolvedor Back-end apaixonado por tecnologia 🚀</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=artuurdev&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="Visualizações no perfil" />
-</p>
-
