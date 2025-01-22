@@ -1,30 +1,378 @@
-<h1 align="center">Oi 👋, Eu sou o Artur Santos</h1>
-<h3 align="center">Um desenvolvedor Back end apaixonado por tecnologia</h3>
+<h1 align="center">Olá, eu sou Artur Santos 👋</h1>
+<h3 align="center">Desenvolvedor Back-end apaixonado por tecnologia 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=artuurdev&label=Profile%20views&color=0e75b6&style=flat" alt="artuurdev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=artuurdev" alt="artuurdev" /></a> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://img.shields.io/github/followers/artuurdev?label=Followers&style=social" alt="artuurdev" /></a> </p>
-
-- 💬 Pergunte-me sobre **JavaScript, Python, Node.js, Express, NestJs e desenvolvimento web**
-
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/artur-santos-6035862a0) | **arturcastrodossantos.com@gmail.com**
-
-- 📘 Atualmente graduando em **Análise e Desenvolvimento de Sistemas**
-
-- 📚 Me especializando em **Node.js, NestJs e Express**
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/artur-santos-6035862a0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="artur-santos-6035862a0" height="30" width="40" /></a>
-<a href="https://github.com/artuurdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="artuurdev" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=artuurdev&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="Visualizações no perfil" />
 </p>
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> </a>
+---
+
+### Sobre mim
+
+- 💻 **Desenvolvedor Back-end** com experiência em **JavaScript**, **Node.js**, **Express** e **NestJS**.  
+- 📘 Atualmente cursando **Análise e Desenvolvimento de Sistemas**.  
+- 📚 Me especializando em tecnologias modernas para o desenvolvimento de APIs robustas e escaláveis.  
+- 💬 Sempre disposto a ajudar com **JavaScript, Node.js, Express, NestJS** e **desenvolvimento web**.  
+- 🎯 Objetivo: Tornar-me referência no desenvolvimento back-end, criando soluções que impactem positivamente a vida das pessoas.
+
+---
+
+### 💼 Contato
+
+- 📫 **E-mail**: [arturcastrodossantos.com@gmail.com](mailto:arturcastrodossantos.com@gmail.com)  
+- 🌐 **LinkedIn**: [Artur Santos](https://www.linkedin.com/in/artur-santos-6035862a0)  
+- 🖥️ **GitHub**: [artuurdev](https://github.com/artuurdev)
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+  </a>
+  <a href="https://nestjs.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🌱 O que estou aprendendo atualmente?
+
+- **NestJS** para criar APIs modulares e escaláveis.  
+- Boas práticas em **TypeScript** no back-end.  
+- Arquitetura limpa e design de software.  
+
+---
+
+### 🚀 Estatísticas do GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=artuurdev&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artuurdev&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</p>
+<h1 align="center">Olá, eu sou Artur Santos 👋</h1>
+<h3 align="center">Desenvolvedor Back-end apaixonado por tecnologia 🚀</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=artuurdev&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="Visualizações no perfil" />
+</p>
+
+---
+
+### Sobre mim
+
+- 💻 **Desenvolvedor Back-end** com experiência em **JavaScript**, **Node.js**, **Express** e **NestJS**.  
+- 📘 Atualmente cursando **Análise e Desenvolvimento de Sistemas**.  
+- 📚 Me especializando em tecnologias modernas para o desenvolvimento de APIs robustas e escaláveis.  
+- 💬 Sempre disposto a ajudar com **JavaScript, Node.js, Express, NestJS** e **desenvolvimento web**.  
+- 🎯 Objetivo: Tornar-me referência no desenvolvimento back-end, criando soluções que impactem positivamente a vida das pessoas.
+
+---
+
+### 💼 Contato
+
+- 📫 **E-mail**: [arturcastrodossantos.com@gmail.com](mailto:arturcastrodossantos.com@gmail.com)  
+- 🌐 **LinkedIn**: [Artur Santos](https://www.linkedin.com/in/artur-santos-6035862a0)  
+- 🖥️ **GitHub**: [artuurdev](https://github.com/artuurdev)
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+  </a>
+  <a href="https://nestjs.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🌱 O que estou aprendendo atualmente?
+
+- **NestJS** para criar APIs modulares e escaláveis.  
+- Boas práticas em **TypeScript** no back-end.  
+- Arquitetura limpa e design de software.  
+
+---
+
+### 🚀 Estatísticas do GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=artuurdev&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artuurdev&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</p>
+<h1 align="center">Olá, eu sou Artur Santos 👋</h1>
+<h3 align="center">Desenvolvedor Back-end apaixonado por tecnologia 🚀</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=artuurdev&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="Visualizações no perfil" />
+</p>
+
+---
+
+### Sobre mim
+
+- 💻 **Desenvolvedor Back-end** com experiência em **JavaScript**, **Node.js**, **Express** e **NestJS**.  
+- 📘 Atualmente cursando **Análise e Desenvolvimento de Sistemas**.  
+- 📚 Me especializando em tecnologias modernas para o desenvolvimento de APIs robustas e escaláveis.  
+- 💬 Sempre disposto a ajudar com **JavaScript, Node.js, Express, NestJS** e **desenvolvimento web**.  
+- 🎯 Objetivo: Tornar-me referência no desenvolvimento back-end, criando soluções que impactem positivamente a vida das pessoas.
+
+---
+
+### 💼 Contato
+
+- 📫 **E-mail**: [arturcastrodossantos.com@gmail.com](mailto:arturcastrodossantos.com@gmail.com)  
+- 🌐 **LinkedIn**: [Artur Santos](https://www.linkedin.com/in/artur-santos-6035862a0)  
+- 🖥️ **GitHub**: [artuurdev](https://github.com/artuurdev)
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+  </a>
+  <a href="https://nestjs.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🌱 O que estou aprendendo atualmente?
+
+- **NestJS** para criar APIs modulares e escaláveis.  
+- Boas práticas em **TypeScript** no back-end.  
+- Arquitetura limpa e design de software.  
+
+---
+
+### 🚀 Estatísticas do GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=artuurdev&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artuurdev&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</p>
+<h1 align="center">Olá, eu sou Artur Santos 👋</h1>
+<h3 align="center">Desenvolvedor Back-end apaixonado por tecnologia 🚀</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=artuurdev&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="Visualizações no perfil" />
+</p>
+
+---
+
+### Sobre mim
+
+- 💻 **Desenvolvedor Back-end** com experiência em **JavaScript**, **Node.js**, **Express** e **NestJS**.  
+- 📘 Atualmente cursando **Análise e Desenvolvimento de Sistemas**.  
+- 📚 Me especializando em tecnologias modernas para o desenvolvimento de APIs robustas e escaláveis.  
+- 💬 Sempre disposto a ajudar com **JavaScript, Node.js, Express, NestJS** e **desenvolvimento web**.  
+- 🎯 Objetivo: Tornar-me referência no desenvolvimento back-end, criando soluções que impactem positivamente a vida das pessoas.
+
+---
+
+### 💼 Contato
+
+- 📫 **E-mail**: [arturcastrodossantos.com@gmail.com](mailto:arturcastrodossantos.com@gmail.com)  
+- 🌐 **LinkedIn**: [Artur Santos](https://www.linkedin.com/in/artur-santos-6035862a0)  
+- 🖥️ **GitHub**: [artuurdev](https://github.com/artuurdev)
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+  </a>
+  <a href="https://nestjs.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🌱 O que estou aprendendo atualmente?
+
+- **NestJS** para criar APIs modulares e escaláveis.  
+- Boas práticas em **TypeScript** no back-end.  
+- Arquitetura limpa e design de software.  
+
+---
+
+### 🚀 Estatísticas do GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=artuurdev&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artuurdev&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</p>
+<h1 align="center">Olá, eu sou Artur Santos 👋</h1>
+<h3 align="center">Desenvolvedor Back-end apaixonado por tecnologia 🚀</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=artuurdev&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="Visualizações no perfil" />
+</p>
+
+---
+
+### Sobre mim
+
+- 💻 **Desenvolvedor Back-end** com experiência em **JavaScript**, **Node.js**, **Express** e **NestJS**.  
+- 📘 Atualmente cursando **Análise e Desenvolvimento de Sistemas**.  
+- 📚 Me especializando em tecnologias modernas para o desenvolvimento de APIs robustas e escaláveis.  
+- 💬 Sempre disposto a ajudar com **JavaScript, Node.js, Express, NestJS** e **desenvolvimento web**.  
+- 🎯 Objetivo: Tornar-me referência no desenvolvimento back-end, criando soluções que impactem positivamente a vida das pessoas.
+
+---
+
+### 💼 Contato
+
+- 📫 **E-mail**: [arturcastrodossantos.com@gmail.com](mailto:arturcastrodossantos.com@gmail.com)  
+- 🌐 **LinkedIn**: [Artur Santos](https://www.linkedin.com/in/artur-santos-6035862a0)  
+- 🖥️ **GitHub**: [artuurdev](https://github.com/artuurdev)
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+  </a>
+  <a href="https://nestjs.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🌱 O que estou aprendendo atualmente?
+
+- **NestJS** para criar APIs modulares e escaláveis.  
+- Boas práticas em **TypeScript** no back-end.  
+- Arquitetura limpa e design de software.  
+
+---
+
+### 🚀 Estatísticas do GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=artuurdev&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artuurdev&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</p>
+<h1 align="center">Olá, eu sou Artur Santos 👋</h1>
+<h3 align="center">Desenvolvedor Back-end apaixonado por tecnologia 🚀</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=artuurdev&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="Visualizações no perfil" />
+</p>
+
+---
+
+### Sobre mim
+
+- 💻 **Desenvolvedor Back-end** com experiência em **JavaScript**, **Node.js**, **Express** e **NestJS**.  
+- 📘 Atualmente cursando **Análise e Desenvolvimento de Sistemas**.  
+- 📚 Me especializando em tecnologias modernas para o desenvolvimento de APIs robustas e escaláveis.  
+- 💬 Sempre disposto a ajudar com **JavaScript, Node.js, Express, NestJS** e **desenvolvimento web**.  
+- 🎯 Objetivo: Tornar-me referência no desenvolvimento back-end, criando soluções que impactem positivamente a vida das pessoas.
+
+---
+
+### 💼 Contato
+
+- 📫 **E-mail**: [arturcastrodossantos.com@gmail.com](mailto:arturcastrodossantos.com@gmail.com)  
+- 🌐 **LinkedIn**: [Artur Santos](https://www.linkedin.com/in/artur-santos-6035862a0)  
+- 🖥️ **GitHub**: [artuurdev](https://github.com/artuurdev)
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+  </a>
+  <a href="https://nestjs.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🌱 O que estou aprendendo atualmente?
+
+- **NestJS** para criar APIs modulares e escaláveis.  
+- Boas práticas em **TypeScript** no back-end.  
+- Arquitetura limpa e design de software.  
+
+---
+
+### 🚀 Estatísticas do GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=artuurdev&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artuurdev&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
