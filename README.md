@@ -45,12 +45,3 @@
 
 - **NestJS** para criar APIs modulares e escaláveis.  
 - Arquitetura limpa e design de software.  
-
----
-
-### 🚀 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=artuurdev&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artuurdev&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</p>
