@@ -9,10 +9,10 @@
 
 ### Sobre mim
 
-- 💻 **Desenvolvedor Back-end** com experiência em **JavaScript**, **Node.js**, **Fastify** e **NestJS**.  
+- 💻 **Desenvolvedor Back-end** com experiência em **JavaScript**, **Node.js** e **NestJS**.  
 - 📘 Atualmente cursando **Análise e Desenvolvimento de Sistemas**.  
 - 📚 Me especializando em tecnologias modernas para o desenvolvimento de APIs robustas e escaláveis.  
-- 💬 Sempre disposto a ajudar com **JavaScript, Node.js, Fastify, NestJS** e **desenvolvimento web**.  
+- 💬 Sempre disposto a ajudar com **JavaScript, Node.js, NestJS** e **desenvolvimento web**.  
 - 🎯 Objetivo: Tornar-me referência no desenvolvimento, criando soluções que impactem positivamente a vida das pessoas.
 
 ---
@@ -44,7 +44,6 @@
 ### 🌱 O que estou aprendendo atualmente?
 
 - **NestJS** para criar APIs modulares e escaláveis.  
-- Boas práticas em **TypeScript** no back-end.  
 - Arquitetura limpa e design de software.  
 
 ---
