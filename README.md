@@ -25,7 +25,7 @@
 ### Back-end
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,javascript,typescript,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,javascript,typescript" />
 </p>
 
 ### Front-end
@@ -37,52 +37,19 @@
 ### Banco de Dados
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=postgresql,redis" />
 </p>
 
-### Ferramentas e DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman" />
-</p>
 
 ---
 
 ## 🌱 Atualmente estudando
 
-- NestJS
 - React
-- Clean Architecture
-- Domain-Driven Design (DDD)
-- Microsserviços
-- Docker
-- Cloud Computing
 
 ---
 
-## 📌 Projetos em Destaque
 
-### 💈 Barber Shop API
-Sistema de gerenciamento para barbearias com:
-
-- Cadastro de clientes
-- Cadastro de barbeiros
-- Agendamentos
-- Controle de horários
-- Arquitetura baseada em DDD
-- NestJS + PostgreSQL
-
-### ✅ Task Manager API
-
-Sistema de gerenciamento de tarefas contendo:
-
-- Autenticação JWT
-- OAuth Google
-- Cache com Redis
-- Domain Events
-- NestJS + Prisma
-
----
 
 ## 📊 GitHub Stats
 
