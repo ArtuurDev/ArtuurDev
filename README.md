@@ -1,40 +1,127 @@
-<h1 align="center">Olá, eu sou Artur Santos 👋</h1>
-<h3 align="center">Desenvolvedor Back-end apaixonado por tecnologia 🚀</h3>
+<h1 align="center">👋 Olá, eu sou Artur Santos</h1>
+
+<p align="center">
+  Desenvolvedor Back-end focado em Node.js, NestJS e Arquitetura de Software.
+</p>
+
+<p align="center">
+  Atualmente estudando Análise e Desenvolvimento de Sistemas e construindo projetos escaláveis com foco em boas práticas, Clean Architecture e DDD.
+</p>
 
 ---
 
-### Sobre mim
+## 🚀 Sobre mim
 
-- 💻 **Desenvolvedor Back-end** com experiência em **JavaScript**, **Node.js** e **NestJS**.  
-- 📘 Atualmente cursando **Análise e Desenvolvimento de Sistemas**.  
-- 📚 Me especializando em tecnologias modernas para o desenvolvimento de APIs robustas e escaláveis.  
-- 💬 Sempre disposto a ajudar com **JavaScript, Node.js, NestJS** e **desenvolvimento web**.  
-- 🎯 Objetivo: Tornar-me referência no desenvolvimento, criando soluções que impactem positivamente a vida das pessoas.
-
----
-
-### 💼 Contato
-
-- 📫 **E-mail**: [arturcastrodossantos.com@gmail.com](mailto:arturcastrodossantos.com@gmail.com)  
-- 🌐 **LinkedIn**: [Artur Santos](https://www.linkedin.com/in/artur-santos-6035862a0)  
-- 🖥️ **GitHub**: [artuurdev](https://github.com/artuurdev)
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 💻 Desenvolvedor Back-end
+- 📚 Especializando-me em Node.js, NestJS e Arquitetura de Software
+- 🔥 Interesse em sistemas distribuídos, microsserviços e cloud
+- 🎯 Objetivo: construir soluções escaláveis e me tornar especialista em Engenharia de Software
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 🛠️ Stack Principal
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+### Back-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,javascript,typescript,python" />
+</p>
+
+### Front-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
+</p>
+
+### Ferramentas e DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman" />
+</p>
+
+---
+
+## 🌱 Atualmente estudando
+
+- NestJS
+- React
+- Clean Architecture
+- Domain-Driven Design (DDD)
+- Microsserviços
+- Docker
+- Cloud Computing
+
+---
+
+## 📌 Projetos em Destaque
+
+### 💈 Barber Shop API
+Sistema de gerenciamento para barbearias com:
+
+- Cadastro de clientes
+- Cadastro de barbeiros
+- Agendamentos
+- Controle de horários
+- Arquitetura baseada em DDD
+- NestJS + PostgreSQL
+
+### ✅ Task Manager API
+
+Sistema de gerenciamento de tarefas contendo:
+
+- Autenticação JWT
+- OAuth Google
+- Cache com Redis
+- Domain Events
+- NestJS + Prisma
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=artuurdev&show_icons=true&theme=tokyonight"
+  />
+  
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=artuurdev&layout=compact&theme=tokyonight"
+  />
+</p>
+
+---
+
+## 📫 Contato
+
+<p>
+  <a href="mailto:arturcastrodossantos.com@gmail.com">
+    📧 E-mail
   </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/artur-santos-6035862a0">
+    💼 LinkedIn
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/artuurdev">
+    🖥️ GitHub
   </a>
 </p>
 
 ---
 
-### 🌱 O que estou aprendendo atualmente?
+## ⚡ Curiosidade
 
-- **NestJS** para criar APIs modulares e escaláveis.  
-- Arquitetura limpa e design de software.  
+Além da tecnologia, sou apaixonado por futebol desde a infância. A disciplina adquirida no esporte influencia diretamente minha forma de estudar, trabalhar e desenvolver software.
