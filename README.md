@@ -15,7 +15,7 @@
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 💻 Desenvolvedor Back-end
 - 📚 Especializando-me em Node.js, NestJS e Arquitetura de Software
-- 🔥 Interesse em sistemas distribuídos, microsserviços e cloud
+- 🔥 Interesse em sistemas distribuídos, microsserviços e cloud (AWS)
 - 🎯 Objetivo: construir soluções escaláveis e me tornar especialista em Engenharia de Software
 
 ---
@@ -46,6 +46,9 @@
 ## 🌱 Atualmente estudando
 
 - React
+- AWS
+- Terraform
+- Infra
 
 ---
 
