@@ -22,8 +22,8 @@
 
 - 🎓 Graduando em **Análise e Desenvolvimento de Sistemas (ADS)**.
 - 💻 **Backend Engineer** focado na construção de aplicações escaláveis, performáticas e de alta disponibilidade.
-- 📚 Especializando-me no ecossistema **Node.js, NestJS e TypeScript** através do **Amontada Valley** em parceria com **Rocketseat & Alura**.
-- 🏛️ Aplicando boas práticas de engenharia como **Clean Architecture, DDD, TDD** e **Microsserviços**.
+- 📚 Especializando-me no ecossistema **Node.js, NestJS e TypeScript** através do **Amontada Valley** em parceria com **Rocketseat**.
+- 🏛️ Aplicando boas práticas de engenharia como **Clean Architecture e DDD**.
 - ☁️ Forte interesse e prática em **DevOps & Cloud (AWS, Docker, CI/CD, Terraform)**.
 - 🎯 **Objetivo:** Desenvolver sistemas robustos e evoluir em direção à **Arquitetura de Software e Liderança Técnica**.
 
