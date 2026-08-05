@@ -38,7 +38,7 @@
 
 ### ☁️ Cloud, IaC & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,githubactions,git,linux" alt="Cloud Stack" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,githubactions,git" alt="Cloud Stack" />
 </p>
 
 ### 🛢️ Banco de Dados
