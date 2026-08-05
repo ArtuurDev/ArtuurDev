@@ -43,7 +43,7 @@
 
 ### 🛢️ Banco de Dados
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" alt="Databases Stack" />
+  <img src="https://skillicons.dev/icons?i=postgres,redis" alt="Databases Stack" />
 </p>
 
 ### 🎨 Front-end (Suporte)
